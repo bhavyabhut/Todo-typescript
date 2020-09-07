@@ -94,6 +94,7 @@ li{
 .date-number{
     font-size: 28px;
     margin-right: 0.5rem;
+    text-align: center;
 }
 .day{
     color: grey;
@@ -104,6 +105,10 @@ li{
 .list{
     padding: 0.2rem;
     margin:2rem 0;
+    display: flex;
+    flex-direction: column;
+}
+.list-box{
     display: flex;
     flex-direction: column;
 }
@@ -154,4 +159,8 @@ button{
 
 .line{
     text-decoration: line-through;
+}
+
+.hide{
+ display: none !important;
 }
