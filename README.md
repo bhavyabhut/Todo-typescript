@@ -2,10 +2,10 @@
 
 ### [Live](https://to-do-typescript.netlify.app/)
 
-- Typescript project to make todo list
+- Typescript project to implement a Todo List.
 
-- Store in localstorage ,So user edit and show any time 
+- It uses localstorage, so the user can access and edit the list anytime.
 
-- When day changed all todo goes remove 
+- Auto-removal of the list when the day changes.
 
 
