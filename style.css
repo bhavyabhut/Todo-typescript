@@ -102,6 +102,18 @@ li{
     text-transform: uppercase;
 }
 
+.title{
+    text-align: center;
+}
+
+.list-title{
+    color: black;
+    font-size: 25px;
+    padding: 5px 15px;
+    color: grey;
+
+}
+
 .list{
     padding: 0.2rem;
     margin:2rem 0;
@@ -163,4 +175,13 @@ button{
 
 .hide{
  display: none !important;
+}
+
+.author{
+    text-align: center;
+    clear: both;
+    position: relative;
+    margin-top: -200px;
+    align-items: center;
+    color: grey;
 }
